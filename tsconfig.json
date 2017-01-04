@@ -5,10 +5,7 @@
     "removeComments": false,
     "sourceMap": true,
     "target": "es5",
-    "module": "commonjs"
-  },
-  "include": [
-    "Common.d.ts",
-    "Common.ts"
-  ]
+    "module": "commonjs",
+    "outDir": "dist"
+  }
 }
